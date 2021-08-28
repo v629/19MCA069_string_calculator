@@ -5,7 +5,7 @@ public class StringCalculator {
 	public int Add(String numbers)
 	{
 
-		//String[] str = numbers.split(",");
+		
 		String delimiter = ",";
 		if(numbers.isEmpty())
 		{
